@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Maswadh Salon AI",
+  "description": "Official intelligent assistant for Maswadh Salon in Hebron, Palestine.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
